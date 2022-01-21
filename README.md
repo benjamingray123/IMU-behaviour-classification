@@ -1,6 +1,6 @@
 # IMU-behaviour-classification
-classification of dog behaviour based on inertial measurements (accelerometer and gyroscope) recorded by a wearable sensor 
-data available at data.mendeley.com/datasets/vxhx934tbn/2
+- classification of dog behaviour based on inertial measurements (accelerometer and gyroscope) recorded by a wearable sensor 
+- data available at data.mendeley.com/datasets/vxhx934tbn/2
 
 - executive summary
     - a decision tree classified an unseen subject (LOGOCV) with average 0.95 accuracy based on generic (selected) default features from tsfel
