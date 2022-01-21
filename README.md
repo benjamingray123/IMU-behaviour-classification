@@ -31,6 +31,6 @@
 - optimisation and future perspectives   
     - trial signal filtering prior to feature extraction i.e butterworth or low-pass filter 
     - mitigating the class imbalance - oversampling the static behaviours, or undersampling dynamic behaviours
-    - hyperparameter tuning for models, sliding window, featues, feature selection
+    - hyperparameter tuning for models, sliding window, featues, feature selection. automated with grid / random search 
     - refactor code into sklearn pipelines to prevent data leakage and increase usability 
 
